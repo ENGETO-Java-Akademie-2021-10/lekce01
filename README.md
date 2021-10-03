@@ -22,10 +22,13 @@ Pokud jsi narazil(a) při instalaci na problém, napiš nám na Slack, nebo to m
    - [Metody](metody.md)
    - [Objekty](objekty-intro.md)
    - ... a&nbsp;také objektové (wrappované) datové typy
+
+## Cvičení
+  - [Cvičení: Položka faktury](cviceni-polozka-faktury.md)
  
- - Kontext
-    - [Co je to Java?](java-a-jdk.md)
-    - [Nástroje vývojáře](nastroje.md)
+## Kontext
+  - [Co je to Java?](java-a-jdk.md)
+  - [Nástroje vývojáře](nastroje.md)
  
 ## Samostudium
 
