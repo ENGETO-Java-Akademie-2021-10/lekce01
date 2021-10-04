@@ -10,6 +10,11 @@ Před první hodinou bys měl(a) mít naistalované základní nástoje, které 
 
 Pokud jsi narazil(a) při instalaci na problém, napiš nám na Slack, nebo to můžeme probrat na konzultaci.
 
+## Cíl lekce
+1. Vytvořit si první projekt a&nbsp;spustit ho.
+2. Naučit se vytvářet proměnné a&nbsp;pracovat s&nbsp;nimi.
+3. Seznámit se s&nbsp;běžnými datovými typy v&nbsp;Javě.
+
 ## Co nás čeká
 
  - Úvod

@@ -3,11 +3,10 @@
 Pojďme si nyní společně vyřešit následující cvičení:
 
 1. Vytvořme program, který spočítá celkovou cenu faktury (_invoice price_). Máme zadané:
+    - název zboží (_item_), 
+    - počet kusů (_number of pieces_),
     - datum vystavení (_date of issue_), 
-    - název zboží (_item name_), 
-    - cenu jednoho kusu (_price per piece_) 
-    - a&nbsp;počet kusů (_number of pieces_). 
-    
+    - a&nbsp;cenu jednoho kusu (_price per piece_).
     (Další údaje z&nbsp;faktury &mdash; informace o&nbsp;zákazníkovi, datum splatnosti a&nbsp;další nebudeme pro jednoduchost v&nbsp;tomto cvičení řešit.)
 2. Přidejme informaci, zda je zákazníkovi poskytnuta sleva (_discount_). Pokud ano, je poslední kus za čtvrtinu původní ceny (ostatní kusy jsou za původní cenu). Upravme kód tak, aby počítal cenu se slevou, pokud byla cena poskytnuta.
 3. Vytvoř si metodu pro výpočet celkové ceny faktury (_total price_).
@@ -18,5 +17,6 @@ Pojďme si nyní společně vyřešit následující cvičení:
 
 > Doplnění: 
 > 
-> 1. Okomentujme také objektové/wrappované číselné typy.
-> 2. Odkud budeme brát data? Čtení ze souboru projdeme později.
+> 1. Jaké další datové typy v&nbsp;Javě známe?
+> 2. Okomentujme také objektové/wrappované číselné typy.
+> 3. Odkud budeme brát data? Čtení ze souboru projdeme později.
