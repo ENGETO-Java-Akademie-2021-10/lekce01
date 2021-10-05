@@ -2,7 +2,7 @@
 
 Zatím jsme si pojmenovali hodnoty tím, že jsme je uložili do proměnných. Výhoda je, že proměnnou mohu používat opakovaně.
 
-Co když chci ale opakovaně provádět stejný výpočet? Třeba chci počítat obvod různých obdélníků. Můžeme si proto připravit _metodu_, která bude výpočet popisovat:
+Co když chci ale opakovaně provádět stejný výpočet? Třeba chci počítat délku úhlopříčky různých obdélníků. Můžeme si proto připravit _metodu_, která bude výpočet popisovat:
 
 ```java
 package com.engeto.example;
